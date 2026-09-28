@@ -5,7 +5,7 @@ Hoy nos salimos un poco de los datos para adentrarnos en la fiscalidad internaci
 
 ## Estudio de caso — Fiscalidad internacional
 
-**Autor:** Gonzalo Rodrigañez
+**Autor:** Gonzalo Rodrigañez Lorente Sorolla
 
 ---
 
